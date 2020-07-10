@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: rgb(199, 198, 198);
+}
+.main{
+    margin: 150px;
+    
+    
+    
+}
+.digits h2{
+    display:inline-block;
+    font-size: 50px;
+    background-color: white;
+    width: 80px;
+    
+}
